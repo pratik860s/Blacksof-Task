@@ -11,7 +11,7 @@ export default function HeroSection() {
           </p>
         </div>
         <div className="wdth">
-          <p className="text-white text-4xl font-normal font-inter text-center leading-normal tracking-wider bg-customBg bg-cover bg-clip-text">
+          <p className="text-white text-4xl font-normal font-inter text-center leading-normal tracking-wider bg-custom-bg bg-cover bg-clip-text">
             Bringing A New Perspective To Street Lights And The Cities Of
             Tomorrow.
           </p>
