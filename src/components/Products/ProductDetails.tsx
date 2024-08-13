@@ -44,7 +44,7 @@ const ProductDetails: React.FC = () => {
         loading="lazy"
         src={Arrow}
         alt="Product diagram"
-        className="object-contain absolute left-54 top-97 w-20 aspect-[2.15] max-md:mt-10"
+        className="object-contain absolute left-55 top-97 w-20 aspect-[2.15] max-md:mt-10"
       />
     </div>
   );
