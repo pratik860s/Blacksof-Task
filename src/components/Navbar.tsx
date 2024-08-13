@@ -1,4 +1,5 @@
 import Logo from "../assets/smart lights_logo.svg"
+import Buttons from "./Buttons";
 export default function Navbar() {
 return (
   <div className="bg-black flex flex-col justify-center items-center px-16 py-7 border-b border-white border-opacity-10 max-md:px-5">
@@ -20,7 +21,7 @@ return (
           </div>
         </div>
         <div className="flex flex-col justify-center items-center self-stretch px-6 py-4 my-auto text-xl whitespace-nowrap rounded-sm font-[425] min-h-[54px] w-[171px] max-md:px-5">
-          <div className="gap-1.5 self-stretch">Login</div>
+          <div className="gap-1.5 self-stretch"><Buttons/></div>
         </div>
       </div>
     </div>
