@@ -54,7 +54,7 @@ const ProductsSection: React.FC = () => {
             ))}
           </nav>
           <div className="overflow-hidden mt-24 max-md:pr-5 max-md:mt-10 max-md:max-w-full">
-            <div className="flex gap-5 justify-center max-md:flex-col">
+            <div className="flex justify-center max-md:flex-col">
               <div className="flex flex-col  max-md:ml-0 max-md:w-full">
                 <img loading="lazy" src={StreetLight} />
               </div>
