@@ -42,6 +42,10 @@
   background-image: url("./assets/Footer.png");
 }
 
+.bg-custom-bg {
+  background-image: url('./src/assets/gif.gif');
+}
+
 .w-93 {
   width: 93%;
 }

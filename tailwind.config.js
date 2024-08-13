@@ -12,7 +12,6 @@ export default {
         sequel: ["Sequel Sans", "sans-serif"],
       },
       backgroundImage: {
-        customBg: ["url('./src/assets/gif.gif')"],
         customGradient: [
           "linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #EFF7FF 100%), linear-gradient(166.74deg, #00050A 9.53%, #002547 99.94%)",
         ],
